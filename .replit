@@ -1,2 +1,2 @@
-run="python main.py"
+run="python Langton_outils.py"
 language="python3"
